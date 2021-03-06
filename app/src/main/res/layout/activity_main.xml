@@ -42,7 +42,7 @@
 
             <TextView
                style="@style/NumberButton"
-                android:id="@+id/btn_ac"
+                android:id="@+id/btn_clear"
                 android:text="AC"
                 />
 
